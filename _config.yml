@@ -1,10 +1,10 @@
-baseurl: /starter
+baseurl: /capecod
 permalink: pretty
 markdown: kramdown
 paginate: 5
-repo: starter
+repo: capecod
 github_org: maptime
 maptime:
-  chapter: Meetup name
-  twitter: YourName
+  chapter: Cape Cod
+  twitter: @maptimecapecod
   #disqus: YOUR DISQUS USERNAME
