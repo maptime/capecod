@@ -11,7 +11,7 @@ Join us for June's Maptime Cape Cod meetup where we will discuss various spatial
 
 Bring your laptop. The evening will be a mix of learning and hands-on data exploration!
 
-Please RSVP so we can accommodate everyone. **Bring your laptop** so that you can follow along and contribute. As always, **beginners are most welcome**! We hope to see you there for a night of fish and maps!
+Please RSVP so we can accommodate everyone. **Bring your laptop** so that you can follow along and contribute. As always, **beginners are most welcome**!
 
 **Important Details:**
 
