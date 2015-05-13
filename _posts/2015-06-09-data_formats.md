@@ -1,7 +1,7 @@
 ---
 layout: event
 category: event
-title: Maptime #3 - Spatial Data Formats
+title: Maptime 3 - Spatial Data Formats
 rsvp: http://www.meetup.com/Maptime-Cape-Cod/events/222509986/
 ---
 
